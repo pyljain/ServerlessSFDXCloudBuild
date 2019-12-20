@@ -4,7 +4,7 @@
 * Author: Google Inc.
 */
 public class Sample {
-  public Integer addOne(Integer x) {
+  public static Integer addOne(Integer x) {
     return x + 1;
   }
 }
